@@ -30,7 +30,9 @@
     outline: none;
     background-color: transparent;
   }
-  
+  .navbar ul li a{
+      color: #212121;
+  }
   @media (min-width: 992px) {
     #mainNav {
       padding-top: 0;
