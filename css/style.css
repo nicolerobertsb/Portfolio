@@ -178,6 +178,11 @@
     width: 100%;
 }
 
+.img-fluid {
+    height: 100%;
+    width: 100%;
+}
+
 @media (min-width: 992px) {
     .projects-section .featured-text {
         padding: 0 0 0 2rem;
